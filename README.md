@@ -1,0 +1,1 @@
+# Composite-action-with-input-and-outputs
